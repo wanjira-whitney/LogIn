@@ -42,8 +42,14 @@ button{
 
 }
 .login-btn{
-    background-color: #d64cf8;
+    background-color: rgb(231, 229, 229);
+    color: rgb(138, 138, 138);
 
+}
+.signup-btn{
+    background-color: rgb(231, 229, 229);
+    color: rgb(138, 138, 138);
+   
 }
 
 a{
